@@ -1,0 +1,39 @@
+body {
+    background-color: #e1d2a9;
+}
+
+table {
+    background-color: #619885;
+    border-radius: 10px;
+    text-align: center;
+}
+
+h1 {
+    font-style: italic;
+    color: #67594e;
+    font-size: 50px;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+
+}
+
+main {
+    max-width: 320px;
+    margin: auto;
+}
+
+.button {
+    background-color: #008000;
+    color: #fff;
+    font-size: 24px;
+    padding: 10px 20px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.cancel {
+    background-color: #8b0000;
+}
+span {
+    display: block;
+}
